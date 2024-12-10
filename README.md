@@ -1,2 +1,2 @@
-# MewDude-Electron-Application-GUI
-MewDude's desktop application is developed using Electron GUI components connected to JavaScript. This is the Github repository for it.
+# MewDude Electron Application GUI
+MewDude is a desktop application built with Electron, utilizing JavaScript for its user interface components. This repository serves as the official home for MewDude on GitHub.
